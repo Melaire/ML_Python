@@ -1,1 +1,1 @@
-# Time_Series_Forecastging_Python
+# Time_Series_Forecasting_Python
